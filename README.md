@@ -3,15 +3,11 @@
   <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
 </h1>
 
-<p align="center">
-<img src = "https://visits.roshan.cyou/roshan1337d-gh?countBG=1CA2F1" height = 30px> <a href="https://roshan.cyou"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1" height = 30px></a> <a href="https://twitter.com/roshan1337d"><img src = "https://img.shields.io/badge/Twitter-Page?style=flat&logo=twitter&logoColor=white&color=1CA2F1" height = 30px></a> <a href="https://www.linkedin.com/in/roshandash"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=2767B1" height = 30px></a> <a href="https://www.hackerrank.com/roshan1337d"><img src = "https://img.shields.io/badge/HackerRank-Page?style=flat&logo=hackerrank&logoColor=white&color=1ba94c" height = 30px></a> <a href="https://leetcode.com/roshan1337d"><img src = "https://img.shields.io/badge/LeetCode-Page?style=flat&logo=leetcode&logoColor=white&color=ff8903" height = 30px></a>
-</p>
-
 ```py
 {
-    name: 'Roshan Dash',
-    education: '2nd year CSE undergrad at IIIT Bhubaneswar, India',
-    currentlyWorkingOn: 'Full-stack web development and cloud computing',
+    name: 'soubhik Kumar Gon',
+    education: '1st year undergrad at IIIT Bhubaneswar, India',
+    currentlyWorkingOn: 'Full-stack web development and competitive programming',
     otherSkills: ['Animation', 'Illustration', 'Graphic Designing'],
 }
 ```
