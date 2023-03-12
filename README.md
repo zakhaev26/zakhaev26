@@ -15,11 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mogulcoder26&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+tps://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mogulcoder26&icon=3&color=4)](https://visitcount.itsvg.in)
