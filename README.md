@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Backend Development,Blockchain<br><br>👯 I’m looking to collaborate on projects related to Web Development<br><br>👨‍💻 All of my projects are available on https://github.com/mogulcoder26<br><br>📫 How to reach me at b422056@iiit-bh.ac.in
+🌱 I’m currently learning Backend Development,Blockchain<br><br>👯 I’m looking to collaborate on projects related to Web Development<br><br>👨‍💻 All of my projects are available on https://github.com/mogulcoder26<br><br>📫 Reach me at b422056@iiit-bh.ac.in
 
 
 ## 🌐 Socials:
@@ -18,6 +18,6 @@
 ![](https://memes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mogulcoder26&icon=3&color=4)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=mogulcoder26&icon=3&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
