@@ -18,6 +18,6 @@
 ![](https://memes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-![](https://visitcount.itsvg.in/api?id=mogulcoder26&icon=3&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mogulcoder26&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
