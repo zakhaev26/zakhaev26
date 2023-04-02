@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Backend Development,Blockchain<br><br>👯 I’m looking to collaborate on projects related to Web Development<br><br>👨‍💻 All of my projects are available on <a href="https://github.com/mogulcoder26">Github</a><br><br>📫 Reach me at b422056@iiit-bh.ac.in
+🌱 I’m currently learning Backend Development,Blockchain<br><br>👯 I’m looking to collaborate on projects related to Web Development<br><br>👨‍💻 All of my projects are available on <a href="https://github.com/mogulcoder26">Github</a><br><br>📫 Reach me at <a href="b422056@iiit-bh.ac.in">My E-mail</a>
 
 
 ## 🌐 Socials:
