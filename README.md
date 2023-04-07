@@ -45,8 +45,10 @@
 
 <img src="https://raw.githubusercontent.com/mogulcoder26/mogulcoder26/blob/output/snake.svg" alt="Snake animation" />
 
+###
 
----
-<center>
-[![](https://visitcount.itsvg.in/api?id=mogulcoder26&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
-</center>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mogulcoder26/count.svg?"  />
+</div>
+
+###
