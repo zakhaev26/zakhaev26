@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mogulcoder26/count.svg?"  />
+  <img src="[https://profile-counter.glitch.me/mogulcoder26/count.svg?](https://visitcount.itsvg.in/api?id=mogulcoder26&label=Profile%20Views&color=11&pretty=true)"  />
 </div>
 
 ###
