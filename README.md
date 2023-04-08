@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-(https://github.com/mogulcoder26/mogulcoder26/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
