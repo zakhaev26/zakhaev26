@@ -43,7 +43,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mogulcoder26/mogulcoder26/blob/output/snake.svg" alt="Snake animation" />
+(https://github.com/mogulcoder26/mogulcoder26/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ###
 
