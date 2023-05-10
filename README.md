@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on various web dev.
 - 📫 Reach me at <a href=" b422056@iiit-bh.ac.in " >Mail</a>
 
-## GITHUB STATUS
+## Stats
 
 [![Lazar's GitHub | Stats](https://stats.quine.sh/mogulcoder26/github?theme=light)](https://quine.sh)  
 
