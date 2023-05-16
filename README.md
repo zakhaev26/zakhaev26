@@ -5,12 +5,12 @@
 
 ## Stats
 
-[![Lazar's GitHub | Stats](https://stats.quine.sh/mogulcoder26/github?theme=light)](https://quine.sh)  
+[![lazar's GitHub | Stats](https://stats.quine.sh/lazar/github?theme=dark)](https://quine.sh)
 
 ## My Languages
 
-[![Lazar's GitHub | Languages Over Time](https://stats.quine.sh/mogulcoder26/languages-over-time?theme=dark)](https://quine.sh)
+[![lazar's GitHub | Languages Over Time](https://stats.quine.sh/lazar/languages-over-time?theme=dark)](https://quine.sh)
 
 ## My Topics Over Time
 
-[![Lazar's GitHub | Topics Over Time](https://stats.quine.sh/mogulcoder26/topics-over-time?theme=dark)](https://quine.sh)
+[![lazar's GitHub | Topics Over Time](https://stats.quine.sh/lazar/topics-over-time?theme=light)](https://quine.sh)
