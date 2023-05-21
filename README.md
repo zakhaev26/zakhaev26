@@ -7,6 +7,9 @@
 
 [![lazar's GitHub | Stats](https://stats.quine.sh/lazar/github?theme=dark)](https://quine.sh)
 
+![mogulcoder26's Stats](https://github-readme-stats.vercel.app/api?username=mogulcoder26&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![mogulcoder26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mogulcoder26&theme=vue-dark&hide_border=false)
 ## My Languages
 
 [![lazar's GitHub | Languages Over Time](https://stats.quine.sh/lazar/languages-over-time?theme=dark)](https://quine.sh)
