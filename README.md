@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Soubhik Gon
-- 👀 I’m interested in web dev  and currently working on React and DS.
-- 💞️ I’m looking to collaborate on various Web dev projects
-- 📫 Reach me @<a href="mailto:b422056@iiit-bh.ac.in">Mail</a>
-
 ## Stats
 
 [![lazar's GitHub | Stats](https://stats.quine.sh/lazar/github?theme=dark)](https://quine.sh)
