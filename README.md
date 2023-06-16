@@ -1,24 +1,6 @@
-## Stats
 
-[![lazar's GitHub | Stats](https://stats.quine.sh/lazar/github?theme=dark)](https://quine.sh)
+https://github.com/mogulcoder26/mogulcoder26/assets/119437069/1d416294-beb2-4e71-924d-3027db2b04f9
 
-![mogulcoder26's Stats](https://github-readme-stats.vercel.app/api?username=mogulcoder26&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![mogulcoder26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mogulcoder26&theme=vue-dark&hide_border=false)
-## My Languages
 
-[![lazar's GitHub | Languages Over Time](https://stats.quine.sh/lazar/languages-over-time?theme=dark)](https://quine.sh)
-
-## My Topics Over Time
-
-[![lazar's GitHub | Topics Over Time](https://stats.quine.sh/lazar/topics-over-time?theme=light)](https://quine.sh)
-
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mogulcoder26&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mogulcoder26&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
-  </tr>
-</table>
