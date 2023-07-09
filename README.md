@@ -1,11 +1,12 @@
 <div align=center>
+
+<center>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&duration=2000&pause=1000&color=D57CF7&background=0C402900&center=true&vCenter=true&width=435&lines=Hi+I+am+Soubhik+!;Full+stack+Web+Developer+;and+I+%E2%9D%A4+playing+with+Tech)](https://git.io/typing-svg)
-<div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=45&duration=4000&pause=1000&color=F786D6&width=1200&height=110&lines=I+am+a+Linux%2FWeb%2FCP+enthusiast+;who+loves+to+work+on+interesting+projects.;and+usually+build+small+projects+to+help+me+understand+better;+what's+going+on+behind+every+abstraction.)](https://git.io/typing-svg)
+</center>
+
 
 ![mogulcoder26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mogulcoder26&theme=vue-dark&hide_border=false)
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&duration=2000&pause=1000&color=D57CF7&background=0C402900&center=true&vCenter=true&repeat=false&width=435&lines=Check+out+Nodeforce+%40npm+!)](https://git.io/typing-svg)
 
 </div>
