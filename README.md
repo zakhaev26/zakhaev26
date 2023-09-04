@@ -13,7 +13,7 @@ I love playing with Tech.
 <div align=center>
 
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,bash,javascript,react,nodejs,mongodb,vercel,aws,gcp,git,redux,firebase,supabase,powershell,netlify,mui,mysql,jquery,docker,github,tailwind,linux,postman,express,heroku,py,vite,vscode,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,bash,javascript,react,nodejs,mongodb,vercel,aws,gcp,git,redux,firebase,supabase,powershell,netlify,mui,mysql,jquery,docker,github,tailwind,linux,postman,express,heroku,py,vite,vscode,bootstrap,ruby&theme=dark)](https://skillicons.dev)
 
 </div>
 
