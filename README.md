@@ -9,7 +9,7 @@
 
 <div align=center>
   
-[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,go,nestjs,bash,javascript,react,nodejs,mongodb,vercel,aws,gcp,git,redux,firebase,supabase,powershell,netlify,mui,mysql,jquery,docker,github,tailwind,linux,postman,express,heroku,py,vite,vscode,bootstrap,ruby&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,go,nestjs,bash,javascript,react,nodejs,mongodb,aws,gcp,git,redux,firebase,supabase,mui,jquery,docker,tailwind,linux,postman,express,py,vite,bootstrap,ruby&theme=dark)](https://skillicons.dev)
 
 </div>
 </div>
