@@ -18,6 +18,7 @@
 
 ### Tools, languages, and other things that I love to work with.
 
+<div style="text-align: center;">
 <table>
   <tr>
     <td align="center" width="96">
@@ -50,13 +51,9 @@
       </a>
       <br>NestJS
     </td>
-    <td align="center" width="96"> 
-      <a href="#soubhik-tech" >
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="60" height="60" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center"  width="96">
+  </tr>
+  <tr>
+        <td align="center"  width="96">
       <a href="#soubhik-tech">
         <img src="https://cdn.freebiesupply.com/logos/large/2x/feathersjs-logo-png-transparent.png" width="60" height="60" />
       </a>
@@ -70,12 +67,6 @@
     </td>
     <td align="center" width="96">
       <a href="#soubhik-tech" >
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="60" height="60" alt="Grafana" />
-      </a>
-      <br>ReactJS
-    </td>
-    <td align="center" width="96">
-      <a href="#soubhik-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="60" height="60" />
       </a>
       <br>Python
@@ -86,8 +77,15 @@
       </a>
       <br>NextJS
     </td>
+        <td align="center" width="96"> 
+      <a href="#soubhik-tech" >
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="60" height="60" />
+      </a>
+      <br>MongoDB
+    </td>
   </tr>
 </table>
+</div>
 
 [Creuto Cloud]: https://github.com/creuto-cloud/
 [issues page]: https://github.com/zakhaev26/zakhaev26/issues
