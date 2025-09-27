@@ -15,7 +15,7 @@ Currently, I work as a Backend Developer **@KoinX**, and I love to spend my leis
 
 I also enjoy exploring different programming languages and paradigms, learning about new technology that helps me write clean and scalable code.  
 
-Outside of programming, I like to **watch movies, travel, watch YouTube, and play chess & football**.  
+Outside of programming, I like to **watch movies, travel, play chess & football**.  
 
 ---
 
