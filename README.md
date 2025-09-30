@@ -1,6 +1,6 @@
-My name is **Soubhik ( /ˈʃoʊ.bɪk/)**, and I'm an undergrad in the **Information Technology group at the International Institute of Information Technology, Bhubaneswar (IIIT-BH)**, batch of 2026.  
+My name is **Soubhik ( /ˈʃoʊ.bɪk/)**, and I'm an undergrad in the **Information Technology** group at the International Institute of Information Technology, Bhubaneswar (IIIT-BH), batch of 2026.  
 
-I am interested in **theoretical computer science, servers, distributed systems, cloud, system software, operating systems, databases, and scaling products**.  
+I am interested in theoretical computer science, servers, distributed systems, cloud, system software, operating systems, databases, and scaling products.  
 
 In particular, I’ve worked on:  
 - Distributed systems, monitoring, real-time software, web APIs, scalability  
