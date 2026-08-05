@@ -9,7 +9,7 @@ In particular, I’ve worked on:
 - Microservices patterns, inter-service communication (synchronous & asynchronous)  
 - Microservices and cloud-native applications  
 
-Currently, I work at **@Oracle**, and I love to spend my leisure time building and discussing ideas, projects, and taking sessions in the **Programming Society Club (PSOC)** at IIIT-BH.  
+Currently, I work at **[Nasuni Labs](https://github.com/nasuni-labs)**, and I love to spend my leisure time building and discussing ideas, projects, and taking sessions in the **Programming Society Club (PSOC)** at IIIT-BH.  
 
 I also enjoy exploring different programming languages and paradigms, learning about new technology that helps me write clean and scalable code.  
 
