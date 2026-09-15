@@ -1,33 +1,16 @@
-My name is **Soubhik ( /ˈʃoʊ.bɪk/)**, and I'm an undergrad in the **Information Technology** group at the International Institute of Information Technology, Bhubaneswar (IIIT-BH), batch of 2026.  
+# Introduction
 
-I am interested in theoretical computer science, servers, distributed systems, cloud, system software, operating systems, databases, and scaling products.  
+My name is **Soubhik Gon (/ˈʃoʊ.bɪk/)**, and I graduated in **Information Technology** from the International Institute of Information Technology, Bhubaneswar, batch of 2026.
 
-In particular, I’ve worked on:  
-- Distributed systems, monitoring, real-time software, web APIs, scalability  
-- CI/CD (continuous integration/continuous deployment), resilience, fault tolerance  
-- Distributed tracing, health checks, configuration management  
-- Microservices patterns, inter-service communication (synchronous & asynchronous)  
-- Microservices and cloud-native applications  
+I'm interested in **computer systems, distributed systems, networks, operating systems, storage, databases and cloud infrastructure**. In particular, I've worked on distributed and real-time systems, microservices, observability, CI/CD, fault tolerance, backend infrastructure, and cloud-native applications.
 
-Currently, I work at **[Nasuni Labs](https://github.com/nasuni-labs)**, and I love to spend my leisure time building and discussing ideas, projects, and taking sessions in the **Programming Society Club (PSOC)** at IIIT-BH.  
+I currently work at [Nasuni](https://www.nasuni.com/), where my work involves **storage systems, performance, and file protocols**.
 
-I also enjoy exploring different programming languages and paradigms, learning about new technology that helps me write clean and scalable code.  
+I enjoy exploring different programming languages and paradigms, reading and contributing to systems code, and learning how software works across different layers of the stack. During university, I was also involved with the **[Programming Society (PSOC)](https://github.com/p-society)**, where I worked on projects, discussed ideas, and took technical sessions.
 
-Outside of programming, I like to **watch movies, travel, play chess & football**.  
-
----
+Outside of computers, I like **movies, travelling, chess, and football**.
 
 # Contact
-
-- Email: `b422056+nospam[at]iiit-bh[dot]ac[dot]in` (remove `+nospam` to avoid spam filters)  
-- GitHub: [github.com/zakhaev26](https://github.com/zakhaev26)  
-- LinkedIn: [linkedin.com/in/soubhikgon](https://www.linkedin.com/in/soubhikgon/)
-
----
-
-# Miscellaneous  
-
-- **OS:** Linux Fedora 6.10.11-200.fc40.x86_64  
-- **Programming Languages:** JavaScript, TypeScript, Python, Go, Java, C/C++, Ruby  
-- **Skills:**  
-  Docker, RabbitMQ, Kafka, BullMQ, AWS, Azure, Redis, MongoDB, PostgreSQL, Elasticsearch, Sequelize, Mongoose, GitHub Actions, Prometheus, Grafana, Logstash, Kibana, React, Node.js, Express.js, NestJS, Mux, Flask, GraphQL, RESTful APIs, gRPC, Nginx, Zookeeper, Firebase, WebSockets, WebRTC, Socket.io, Docusaurus, Tailwind, EJS, Next.js, Feathers.js (v4), Material-UI, jQuery, Lodash, Axios, Redux, NumPy, Pandas, OpenCV.  
+* Email: `soubhikgon2004[at]gmail[dot]com` (remove +nospam to avoid spam filters)
+* GitHub: [github.com/zakhaev26](https://github.com/zakhaev26)
+* LinkedIn: [linkedin.com/in/soubhikgon](https://www.linkedin.com/in/soubhikgon/)
